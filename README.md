@@ -1,11 +1,51 @@
-# Sahil 👋  
-Data Science & AI student | Linux power user  
+# Sahil 👋
 
-Building practical systems, not just tutorials.
+**Data Science & Applied AI Student**
+Linux-first developer | CLI-driven workflow
 
-## Currently Working on
-- **KAI** - Knowledge Based AI
+---
 
-## Side Hustles
-- I'm learning C++.
-- Improving readability and complexity of my codes.
+## 🧠 About Me
+
+* Building systems, not just scripts
+* Focused on **AI + Knowledge Systems**
+* Comfortable in **Linux environments**
+* Strong foundation in **Python + problem solving**
+
+---
+
+## 🚧 Currently Working On
+
+* **Kai** → Knowledge-based AI system
+* Exploring **embeddings + FAISS**
+* Improving system design & performance
+* Learning C++
+
+---
+
+## ⚙️ Tech Stack
+
+* **Languages:** Python
+* **Environment:** Arch Linux
+* **Tools:** Git, CLI, Neovim
+* **Domains:** Data Science, AI basics
+
+---
+
+## 🧠 Projects
+
+* **Kai** → AI-powered knowledge system *(in progress)*
+* **Dotfiles** → Automated minimal Arch setup *(dropped)*
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GourSahil\&show_icons=true)
+
+---
+
+## ⚡ Philosophy
+
+> Build. Break. Understand. Repeat.
+
