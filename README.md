@@ -41,7 +41,7 @@ Linux-first developer | CLI-driven workflow
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GourSahil\&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GourSahil)
 
 ---
 
