@@ -1,7 +1,7 @@
 # Sahil 👋
 
 **Data Science & Applied AI Student**
-Linux-first developer | CLI-driven workflow
+Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ---
 
@@ -38,10 +38,7 @@ Linux-first developer | CLI-driven workflow
 * **Dotfiles** → Automated minimal Arch setup *(dropped)*
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GourSahil)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GourSahil&theme=tokyo-night&hide_border=true"/>
 
 ---
 
