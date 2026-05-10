@@ -7,10 +7,12 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ## 🧠 About Me
 
+* Currently learning as developing
 * Building systems, not just scripts
 * Focused on **AI + Knowledge Systems**
 * Comfortable in **Linux environments**
 * Strong foundation in **Python + problem solving**
+* Learns anything which feels intresting
 
 ---
 
@@ -33,7 +35,7 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ## 🧠 Projects
 
-> Wandering for toughts right now!
+> Wandering for thoughts right now!
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GourSahil&theme=tokyo-night&hide_border=true"/>
