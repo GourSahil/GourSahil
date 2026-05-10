@@ -16,7 +16,6 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ## 🚧 Currently Working On
 
-* **Kai** → Knowledge-based AI system
 * Exploring **embeddings + FAISS**
 * Improving system design & performance
 * Learning C++
@@ -34,8 +33,7 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ## 🧠 Projects
 
-* **Kai** → AI-powered knowledge system *(in progress)*
-* **Dotfiles** → Automated minimal Arch setup *(dropped)*
+> Wandering for toughts right now!
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GourSahil&theme=tokyo-night&hide_border=true"/>
@@ -45,4 +43,9 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 ## ⚡ Philosophy
 
 > Build. Break. Understand. Repeat.
+
+---
+
+## 📡 Contact Me
+> Have a suggestion or wanna have a talk, just mail me [Here](mailto:itzsevrus@duck.com?subject=Hello%20Sevrus)
 
