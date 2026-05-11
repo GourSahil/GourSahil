@@ -18,7 +18,7 @@ Linux-first developer | CLI-driven workflow | Also Known as **SirSevrus**
 
 ## 🚧 Currently Working On
 
-* Exploring **embeddings + FAISS**
+* Sevpy
 * Improving system design & performance
 * Learning C++
 
